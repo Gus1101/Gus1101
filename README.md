@@ -30,7 +30,7 @@ Here are some of the technologies I work with:
 
 --- 
 
-### Knowledge 📖
+### 📖 Knowledge
 
 I excel in:
 
