@@ -3,6 +3,7 @@
 I'm **August**, 22, an Analytics Engineer working @ Ágora Investments.
 
 🔭 Currently studying **Data Engineering, Data Science and AI**.
+
 📫 Feel free to reach out: [linkedin.com/in/augusto-s-bbs](https://linkedin.com/in/augusto-s-bbs)
 
 ---
